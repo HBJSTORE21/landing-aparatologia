@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hbjstore21.github.io/landing-aparatologia/sitemap.xml
